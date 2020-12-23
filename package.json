@@ -5,8 +5,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject",
-    
+    "eject": "expo eject"
   },
   "dependencies": {
     "@react-native-community/viewpager": "^4.2.2",
