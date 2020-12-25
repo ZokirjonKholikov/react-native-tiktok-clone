@@ -7,6 +7,21 @@
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+<br>
+
+<h3 align="center">
+    Screenshots
+</h3>
+<p align="center">
+  <img src="screenshots/tiktok.jpg" width="250"> &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/tiktok-1.jpg" width="250">
+</p>
+
+<br>
+<br>
+
+
 ## Technologies
 
 This project was developed with the following technologies:
